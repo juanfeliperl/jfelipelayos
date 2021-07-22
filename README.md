@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe!</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React, Hooks, Solid.**
+- 🌱 I’m currently learning **Redux, Server Side Rendering and Solid principles.**
 
 - 📫 How to reach me **jfelipelayos@gmail.com**
 
