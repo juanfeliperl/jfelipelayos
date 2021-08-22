@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe!</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfelipelayos&label=Profile%20views&color=0e75b6&style=flat" alt="jfelipelayos" /> </p>
-
 - 🌱 I’m currently learning **Redux, Clean Code and Solid.**
 
 - 📫 How to reach me **jfelipelayos@gmail.com**
