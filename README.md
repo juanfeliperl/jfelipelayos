@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux, Clean Code and Solid.**
 
-- 📫 How to reach me **jfelipelayos@gmail.com**
+- 📫 Reach me **jfelipelayos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
