@@ -11,6 +11,8 @@
 <a href="https://linkedin.com/in/jfelipelayos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jfelipelayos" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/jfelipelayos"><img src="https://api.daily.dev/devcards/e4e74989c57246d9b457b60674968281.png?r=a0z" width="400" alt="Felipe Layos's Dev Card"/></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
