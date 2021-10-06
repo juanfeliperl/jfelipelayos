@@ -23,6 +23,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://app.daily.dev/jfelipelayos"><img src="https://api.daily.dev/devcards/e4e74989c57246d9b457b60674968281.png?r=a0z" width="200" alt="Felipe Layos's Dev Card"/></a>
+<a href="https://app.daily.dev/jfelipelayos"><img src="https://api.daily.dev/devcards/e4e74989c57246d9b457b60674968281.png?r=a0z" width="300" alt="Felipe Layos's Dev Card"/></a>
 
 
