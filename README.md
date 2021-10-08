@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe!</h1>
 <h3 align="center">A frontend developer from Medellin, Colombia</h3>
+<h5 align="center">Creative and self-taught front-end developer with curiosity and interest in building fast, scalable, accessible, and responsive software using modern web technologies.<h5>
 
 - 🌱 I’m currently learning **Redux, Clean Code and Solid.**
 
