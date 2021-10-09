@@ -1,0 +1,79 @@
+@import url(./variables.css);
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-info {
+  width: 50%;
+}
+
+.hero-info-presentation {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.hero-info-contact {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+.hero-info-contact-btn {
+  margin-right: 10px;
+  height: 40px;
+}
+
+.hero-info-contact-btn > a {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.hero-info-contact-btn a img {
+  margin-left: 10px;
+}
+
+.hero-info-contact-icons {
+  margin-top: 10px;
+}
+
+.hero-info-img {
+  width: 50%;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    flex-direction: column;
+  }
+
+  .hero-info {
+    width: 100%;
+  }
+
+  .hero-info-contact {
+    flex-direction: column;
+  }
+  .hero-info-contact-btn {
+    margin: 10px;
+  }
+  .hero-info-contact-social {
+    margin-top: 10px;
+  }
+
+  .hero-info-img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) {
+  .hero-info-img {
+    display: none;
+  }
+}
