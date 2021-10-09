@@ -4,6 +4,20 @@
   box-sizing: border-box;
 }
 
+.underconstruction {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  border: 5px dotted var(--primary-color);
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+.underconstruction > h1 {
+  margin-right: 20px;
+}
+
 a {
   text-decoration: none;
 }
