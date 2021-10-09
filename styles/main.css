@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+a {
+  text-decoration: none;
+}
+
 body {
   font-family: 'Fira Code', monospace;
 }
@@ -14,4 +19,31 @@ body {
   margin-left: auto;
   max-width: 1300px;
   padding: 0 20px;
+}
+
+.btn-primary {
+  background: var(--primary-color);
+  border: none;
+  border-radius: 5px 15px;
+  padding: 0px 15px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 500ms;
+  display: flex;
+  align-items: center;
+}
+
+.btn-primary:hover {
+  border-radius: 15px 5px;
+  background-color: var(--secondary-color);
+}
+
+.social-icon {
+  transition: 500ms;
+}
+
+.social-icon:hover {
+  cursor: pointer;
+  transform: scale(1.1);
 }
