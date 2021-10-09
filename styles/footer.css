@@ -1,0 +1,26 @@
+@import url(./variables.css);
+
+.footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: var(--primary-color);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-icons {
+  margin-left: 10px;
+}
+
+@media (max-width: 800px) {
+  .footer {
+    text-align: center;
+    justify-content: center;
+  }
+  .footer-icons {
+    margin-top: 20px;
+  }
+}
