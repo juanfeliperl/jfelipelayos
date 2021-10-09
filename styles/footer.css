@@ -6,6 +6,10 @@
   background-color: var(--primary-color);
   color: white;
   display: flex;
+}
+
+.footer > .container {
+  display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
@@ -16,7 +20,7 @@
 }
 
 @media (max-width: 800px) {
-  .footer {
+  .footer .container {
     text-align: center;
     justify-content: center;
   }
