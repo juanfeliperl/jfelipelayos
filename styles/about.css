@@ -1,0 +1,36 @@
+.about {
+  background-color: var(--secondary-color);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+  margin-top: 100px;
+}
+
+.about .about-card {
+  background-color: white;
+  color: var(--font-darker-text-color);
+  text-align: justify;
+  padding: 50px;
+  margin-bottom: 100px;
+  font-size: 1.2rem;
+}
+
+.about .about-card span {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+@media (max-width: 800px) {
+  .about .about-card {
+    font-size: 1rem;
+  }
+}
