@@ -16,6 +16,7 @@
   -ms-user-select: none;
   user-select: none;
   -o-user-select: none;
+  color: var(--font-darker-text-color);
 }
 
 .header .header-logo .logo-title {
