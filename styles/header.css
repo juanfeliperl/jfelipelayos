@@ -59,7 +59,7 @@
   .header-nav .nav-list {
     height: 100vh;
     position: fixed;
-    top: -100%;
+    top: -110%;
     right: 0;
     left: 0;
     z-index: 10;
