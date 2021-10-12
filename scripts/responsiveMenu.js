@@ -22,6 +22,6 @@ window.addEventListener('load', () => {
   }
 
   function closeMenu() {
-    navMenu.style.top = '-100%';
+    navMenu.style.top = '-120%';
   }
 });
