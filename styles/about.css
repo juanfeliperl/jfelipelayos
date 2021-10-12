@@ -32,5 +32,7 @@
 @media (max-width: 800px) {
   .about .about-card {
     font-size: 1rem;
+    padding: 60px;
+    margin-bottom: 150px;
   }
 }
