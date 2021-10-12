@@ -1,0 +1,45 @@
+.stack {
+  text-align: center;
+}
+
+.stack h2 {
+  color: var(--primary-color);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.stack-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 100px;
+}
+
+.stack-card {
+  width: 330px;
+  height: 400px;
+  margin: 0px 30px 30px 30px;
+  background-color: var(--secondary-color);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.stack-card > h3 {
+  color: var(--font-lighter-text-color);
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.stack-card-logo {
+  margin: 20px;
+  transition: 500ms;
+}
+
+.stack-card-logo:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
