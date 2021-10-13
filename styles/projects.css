@@ -1,0 +1,88 @@
+.projects-section {
+  background-color: var(--background-color-dark);
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: auto;
+}
+
+.projects-section h2 {
+  color: var(--font-lighter-text-color);
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.project-card {
+  background-color: var(--background-color-light);
+  display: flex;
+  text-align: left;
+  padding: 20px 30px 20px 0px;
+  margin-bottom: 20px;
+}
+
+.projects-card-img {
+  width: 250px;
+  height: 250px;
+}
+
+.project-card-info {
+  padding-top: 10px;
+}
+
+.project-stack {
+  display: flex;
+}
+
+.project-stack-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: var(--primary-color);
+  padding: 5px 10px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  color: var(--font-lighter-text-color);
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.project-buttons {
+  display: flex;
+  margin-top: 10px;
+  height: 30px;
+}
+
+.project-buttons button {
+  margin-right: 10px;
+}
+
+.project-buttons button a {
+  color: var(--font-lighter-text-color);
+}
+
+.project-description {
+  text-align: justify;
+}
+
+@media (max-width: 800px) {
+  .project-card {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .project-buttons {
+    justify-content: center;
+  }
+  .project-stack {
+    justify-content: center;
+  }
+  .project-description {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
