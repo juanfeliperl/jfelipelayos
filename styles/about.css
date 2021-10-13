@@ -35,4 +35,8 @@
     padding: 60px;
     margin-bottom: 150px;
   }
+
+  .about .about-card {
+    text-align: center;
+  }
 }
