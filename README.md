@@ -23,8 +23,6 @@
 
 </div>
 
-<br/>
-
 <h3 align="center" style='margin-bottom:12px'>Languages and Tools:</h3>
 
 <!-- <p align="center">
